@@ -2134,10 +2134,10 @@ electron-to-chromium@^1.4.284:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.345.tgz#c90b7183b39245cddf0e990337469063bfced6f0"
   integrity sha512-znGhOQK2TUYLICgS25uaM0a7pHy66rSxbre7l762vg9AUoCcJK+Bu+HCPWpjL/U/kK8/Hf+6E0szAUJSyVYb3Q==
 
-emoji-picker-react@^4.4.7:
-  version "4.4.8"
-  resolved "https://registry.yarnpkg.com/emoji-picker-react/-/emoji-picker-react-4.4.8.tgz#cd18e942720d0d01e3d488a008f5e79aa315ec87"
-  integrity sha512-5bbj0PCvpjB64PZj31wZ35EoebF2mKoHqEEx9u2ZLghx7sGoD1MgyDhse851rqROypjhmK9IUY15QBa7mCLP0g==
+emoji-picker-react@^4.5.2:
+  version "4.5.3"
+  resolved "https://registry.yarnpkg.com/emoji-picker-react/-/emoji-picker-react-4.5.3.tgz#e7f7290f169cc60d55f60beb8ae44f64d85a5f25"
+  integrity sha512-sF3ALUvfB2AjgxgYMK0c1CG3a6zDZV9EpwPWCJsu8+H6tO5XQW4Fbz2TqDKhu5Nk+/EiBg+g7ZuR41KYtIRnIA==
   dependencies:
     clsx "^1.2.1"
 
